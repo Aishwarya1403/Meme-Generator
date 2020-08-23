@@ -1,0 +1,26 @@
+.container {
+    position: relative
+}
+
+.topText{
+    position:absolute;
+    top:2px;
+    /* color:rgb(35, 34, 122); */
+    color:black;
+    text-indent:45px;
+    font-size:35;
+}
+
+.bottomText{
+    position:absolute;
+    bottom:2px;
+    color:black;
+    /* color:rgb(35, 34, 122); */
+    text-indent:45px;
+    font-size:35;
+}
+img{
+    width:500px;
+    height:400px;
+}
+
